@@ -1,0 +1,119 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "education": "Education",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Mohammed Rhouati",
+    "title": "Artificial Intelligence Engineer",
+    "subtitle": "5th-year Artificial Intelligence Engineering student, passionate about technological innovation and developing intelligent solutions.",
+    "cta": "View my projects",
+    "downloadCv": "Download CV",
+    "scrollDown": "Scroll down"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Passionate about technology and innovation",
+    "bio1": "5th-year Artificial Intelligence Engineering student at the National School of Artificial Intelligence & Digital in Berkane, I am motivated and passionate about technological challenges.",
+    "bio2": "I constantly seek to put my skills into practice through concrete and innovative projects, combining full stack development and artificial intelligence.",
+    "bio3": "My goal is to actively contribute to projects that push the boundaries of technology while providing real added value.",
+    "yearsExperience": "Years of experience",
+    "projectsCompleted": "Projects completed",
+    "technologiesMastered": "Technologies mastered"
+  },
+  "skills": {
+    "title": "My Skills",
+    "subtitle": "Technologies and tools I master",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "database": "Databases",
+      "ai": "AI & Data Science",
+      "devops": "DevOps & Tools",
+      "mobile": "Mobile",
+      "tools": "Tools"
+    },
+    "levels": {
+      "beginner": "Beginner",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced",
+      "expert": "Expert"
+    }
+  },
+  "projects": {
+    "title": "My Projects",
+    "subtitle": "Discover my technical achievements",
+    "viewDetails": "View details",
+    "viewGithub": "View on GitHub",
+    "viewLive": "View live",
+    "allProjects": "All projects",
+    "featured": "Featured projects",
+    "challenges": "Technical challenges",
+    "results": "Results",
+    "technologies": "Technologies used",
+    "categories": {
+      "ai": "AI",
+      "webdevelopment": "Web Development",
+      "datascience": "Data Science"
+    }
+  },
+  "experience": {
+    "title": "Professional Experience",
+    "subtitle": "My professional journey",
+    "present": "Present",
+    "responsibilities": "Responsibilities",
+    "achievements": "Achievements",
+    "technologies": "Technologies"
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "My academic background",
+    "present": "Present",
+    "certifications": "Certifications"
+  },
+  "contact": {
+    "title": "Contact Me",
+    "subtitle": "Let's discuss your next project",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send message",
+      "sending": "Sending...",
+      "success": "Message sent successfully!",
+      "error": "Error sending message"
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location",
+      "availability": "Availability"
+    },
+    "social": {
+      "linkedin": "LinkedIn",
+      "github": "GitHub",
+      "email": "Email"
+    },
+    "availability": "Available for an end-of-studies internship"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "madeWith": "Made with",
+    "by": "by"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous"
+  }
+}

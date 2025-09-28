@@ -1,0 +1,120 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "experience": "Expérience",
+    "education": "Formation",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Salut, je suis",
+    "name": "Mohammed Rhouati",
+    "title": "Ingénieur en Intelligence Artificielle",
+    "subtitle": "Étudiant en 5ème année d'ingénierie en Intelligence Artificielle, passionné par l'innovation technologique et le développement de solutions intelligentes.",
+    "cta": "Voir mes projets",
+    "downloadCv": "Télécharger CV",
+    "scrollDown": "Défiler vers le bas"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "subtitle": "Passionné par la technologie et l'innovation",
+    "bio1": "Étudiant en 5ème année d'ingénierie en Intelligence Artificielle à l'École Nationale de L'Intelligence Artificielle & du Digital de Berkane, je suis motivé et passionné par les défis technologiques.",
+    "bio2": "Je recherche constamment à mettre en pratique mes compétences à travers des projets concrets et innovants, en combinant développement full stack et intelligence artificielle.",
+    "bio3": "Mon objectif est de contribuer activement à des projets qui repoussent les limites de la technologie tout en apportant une réelle valeur ajoutée.",
+    "experience": "Années d'expérience",
+    "projects": "Projets réalisés",
+    "technologies": "Technologies maîtrisées",
+    "certifications": "Certifications"
+  },
+  "skills": {
+    "title": "Mes Compétences",
+    "subtitle": "Technologies et outils que je maîtrise",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "database": "Bases de données",
+      "ai": "IA & Data Science",
+      "devops": "DevOps & Outils",
+      "mobile": "Mobile",
+      "tools": "Outils"
+    },
+    "levels": {
+      "beginner": "Débutant",
+      "intermediate": "Intermédiaire",
+      "advanced": "Avancé",
+      "expert": "Expert"
+    }
+  },
+  "projects": {
+    "title": "Mes Projets",
+    "subtitle": "Découvrez mes réalisations techniques",
+    "viewDetails": "Voir détails",
+    "viewGithub": "Voir sur GitHub",
+    "viewLive": "Voir en ligne",
+    "allProjects": "Tous les projets",
+    "featured": "Projets phares",
+    "challenges": "Défis techniques",
+    "results": "Résultats",
+    "technologies": "Technologies utilisées",
+    "categories": {
+      "ai": "IA",
+      "webdevelopment": "Développement Web",
+      "datascience": "Data Science"
+    }
+  },
+  "experience": {
+    "title": "Expérience Professionnelle",
+    "subtitle": "Mon parcours professionnel",
+    "present": "Présent",
+    "responsibilities": "Responsabilités",
+    "achievements": "Réalisations",
+    "technologies": "Technologies"
+  },
+  "education": {
+    "title": "Formation",
+    "subtitle": "Mon parcours académique",
+    "present": "Présent",
+    "certifications": "Certifications"
+  },
+  "contact": {
+    "title": "Contactez-moi",
+    "subtitle": "Discutons de votre prochain projet",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "success": "Message envoyé avec succès !",
+      "error": "Erreur lors de l'envoi du message"
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Téléphone",
+      "location": "Localisation",
+      "availability": "Disponibilité"
+    },
+    "social": {
+      "linkedin": "LinkedIn",
+      "github": "GitHub",
+      "email": "Email"
+    },
+    "availability": "Disponible pour un stage de fin d'études"
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "madeWith": "Créé avec",
+    "by": "par"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "retry": "Réessayer",
+    "close": "Fermer",
+    "next": "Suivant",
+    "previous": "Précédent"
+  }
+}
